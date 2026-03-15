@@ -1,0 +1,5 @@
+Component: main
+Origin: Elezaio Linux
+Label: Elezaio
+Architecture: amd64
+Description: Elezaio Linux APT Repository

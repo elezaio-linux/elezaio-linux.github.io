@@ -1,0 +1,16 @@
+Package: elezaio-installer
+Version: 2026.3r11
+Architecture: all
+Depends: bash, whiptail, parted, gdisk, squashfs-tools, grub-efi-amd64, curl
+Maintainer: Yaman <cyberhuman-bot@github.com>
+Homepage: https://github.com/elezaio-linux
+Priority: optional
+Section: admin
+Filename: pool/main/e/elezaio-installer/elezaio-installer_2026.3r11_all.deb
+Size: 9738
+SHA256: 2da4449021ac19bc96a0345db9893904d118f1d00acfd7477a2198f5f4f10bf0
+SHA1: 5157c078ff1170ebe9c75c661b69c54dea727e78
+MD5sum: e805b4205f99ec64201db8bcc29fe618
+Description: Elezaio Linux TUI Installer
+ A simple config-driven terminal installer for Debian-based distros.
+

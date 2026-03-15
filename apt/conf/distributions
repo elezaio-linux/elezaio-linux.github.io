@@ -1,0 +1,7 @@
+Origin: Elezaio Linux
+Label: Elezaio
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Elezaio Linux APT Repository
+SignWith: yes
